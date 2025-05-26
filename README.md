@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/imakash665/imakash665/blob/0866368a2008f2d963cc22989f5eb74f51a8f2ff/images/dev-working_rounded.gif" alt="Akash Kumar - Data Scientist" width="400" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A Passionate Data Scientist from India 🇮🇳</h3>
 
@@ -10,14 +6,20 @@
 </p>
 
 ---
+<div align="right">
+  <img src="https://github.com/imakash665/imakash665/blob/0866368a2008f2d963cc22989f5eb74f51a8f2ff/images/dev-working_rounded.gif" width="450" align="right" style="margin-left: 20px;" />
+</div>
 
-- 🔭 I’m currently working on: **Sensor Fault Detection System**
-- 🌱 Currently learning: **Deep Learning, Model Optimization**
-- 🤝 Seeking collaboration in: **MLOps & Model Deployment**
-- 💬 Ask me about: **Machine Learning, Data Science Projects**
-- 📫 How to reach me: **imakash665@gmail.com**
-- 📄 Know more: [View My Resume](https://drive.google.com/file/d/1ulh6QkuX80icFZy2IIICJ6I98ZDDjHex/view?usp=sharing)
+<div align="left">
 
+- 🔭 I’m currently working on: **Sensor Fault Detection System**  
+- 🌱 Currently learning: **Deep Learning, Model Optimization**  
+- 🤝 Seeking collaboration in: **MLOps & Model Deployment**  
+- 💬 Ask me about: **Machine Learning, Data Science Projects**  
+- 📫 How to reach me: **imakash665@gmail.com**  
+- 📄 Know more: [**View My Resume**](https://drive.google.com/file/d/1ulh6QkuX80icFZy2IIICJ6I98ZDDjHex/view?usp=sharing)
+
+</div>
 ---
 
 ### 🌐 Connect With Me
@@ -36,10 +38,11 @@
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,flask,mysql,mongodb,git,linux,postman,heroku" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,flask" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,linux,postman,heroku" />
 </p>
 
 ---
