@@ -7,7 +7,7 @@
 
 ---
 <div align="right">
-  <img src="https://github.com/imakash665/imakash665/blob/0866368a2008f2d963cc22989f5eb74f51a8f2ff/images/dev-working_rounded.gif" width="450" align="right" style="margin-left: 20px;" />
+  <img src="https://github.com/imakash665/imakash665/blob/0866368a2008f2d963cc22989f5eb74f51a8f2ff/images/dev-working_rounded.gif" width="400" align="right" style="margin-left: 20px;" />
 </div>
 
 <div align="left">
