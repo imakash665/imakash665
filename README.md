@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.comx9zjZL.png](https://github.com/imakash665/imakash665/blob/0866368a2008f2d963cc22989f5eb74f51a8f2ff/images/dev-working_rounded.gif" alt="Akash Kumar - Data Scientist" width="100%" />
+  <img src="https://github.com/imakash665/imakash665/blob/0866368a2008f2d963cc22989f5eb74f51a8f2ff/images/dev-working_rounded.gif" alt="Akash Kumar - Data Scientist" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
