@@ -17,7 +17,7 @@
 - 🤝 Seeking collaboration in: **MLOps & Model Deployment**  
 - 💬 Ask me about: **Machine Learning, Data Science Projects**  
 - 📫 How to reach me: **imakash665@gmail.com**  
-- 📄 Know more: [**View My Resume**](https://drive.google.com/file/d/1ulh6QkuX80icFZy2IIICJ6I98ZDDjHex/view?usp=sharing)
+- 📄 Know more: [**View My Resume**](https://drive.google.com/file/d/15xPsYzkhvorXutBNI2oMR6GgkGULnrq9/view?usp=sharing)
 
 </div>
 ---
