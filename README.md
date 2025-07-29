@@ -12,7 +12,7 @@
 
 <div align="left">
 
-- 🔭 I’m currently working on: **Sensor Fault Detection System**  
+- 🔭 I’m currently working on: **Food Delivery Time Prediction Model**  
 - 🌱 Currently learning: **Deep Learning, Model Optimization**  
 - 🤝 Seeking collaboration in: **MLOps & Model Deployment**  
 - 💬 Ask me about: **Machine Learning, Data Science Projects**  
